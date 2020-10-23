@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/executable.dir/exec.cpp.o -o executable   -L/home/drondu/Desktop/lab2iep/A  -Wl,-rpath,/home/drondu/Desktop/lab2iep/A ../A/liblibA.a 

@@ -1,0 +1,1 @@
+add_executable(${PROJECT_NAME} exec.cpp exec.hpp)
