@@ -1,0 +1,1 @@
+add_library(libA libA.cpp libA.hpp)

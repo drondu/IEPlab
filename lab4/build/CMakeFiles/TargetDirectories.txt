@@ -1,0 +1,8 @@
+/home/drondu/Desktop/IEP/lab4/build/CMakeFiles/rebuild_cache.dir
+/home/drondu/Desktop/IEP/lab4/build/CMakeFiles/edit_cache.dir
+/home/drondu/Desktop/IEP/lab4/build/A/CMakeFiles/rebuild_cache.dir
+/home/drondu/Desktop/IEP/lab4/build/A/CMakeFiles/libA.dir
+/home/drondu/Desktop/IEP/lab4/build/A/CMakeFiles/edit_cache.dir
+/home/drondu/Desktop/IEP/lab4/build/B/CMakeFiles/rebuild_cache.dir
+/home/drondu/Desktop/IEP/lab4/build/B/CMakeFiles/executable.dir
+/home/drondu/Desktop/IEP/lab4/build/B/CMakeFiles/edit_cache.dir
