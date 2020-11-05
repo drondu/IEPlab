@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../A/libA.hpp
+
+../A/libC.hpp
+libA.hpp
+../A/libA.hpp
+
+/home/drondu/Desktop/IEP/lab5/B/main.cpp
+iostream
+-
+libC.hpp
+/home/drondu/Desktop/IEP/lab5/B/libC.hpp
+libA.hpp
+/home/drondu/Desktop/IEP/lab5/B/libA.hpp
+
