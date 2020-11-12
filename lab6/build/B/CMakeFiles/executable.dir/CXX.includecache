@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../A/libA.hpp
+mutex
+-
+memory
+-
+
+../A/libC.hpp
+libA.hpp
+../A/libA.hpp
+
+/home/drondu/Desktop/IEP/lab6/B/main.cpp
+iostream
+-
+chrono
+-
+thread
+-
+mutex
+-
+map
+-
+vector
+-
+libC.hpp
+/home/drondu/Desktop/IEP/lab6/B/libC.hpp
+libA.hpp
+/home/drondu/Desktop/IEP/lab6/B/libA.hpp
+
