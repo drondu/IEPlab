@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibD.a CMakeFiles/libD.dir/libD.cpp.o
+/usr/bin/ranlib liblibD.a

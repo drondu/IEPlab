@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/executable.dir/main.cpp.o -o executable   -L/home/drondu/Desktop/IEP/lab10/A  -Wl,-rpath,/home/drondu/Desktop/IEP/lab10/A ../A/liblibA.a -lpthread ../A/liblibB.a ../A/liblibC.a ../A/liblibD.a ../A/liblibA.a ../A/liblibB.a ../A/liblibC.a ../A/liblibD.a 

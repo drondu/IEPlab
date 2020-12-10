@@ -36,7 +36,7 @@ int main()
     it2->printSomeData();
 
 
-    // Item 26
+    // Item 26  
     std::shared_ptr<libA> it3;
 
     it3 = std::make_shared<libC>("cmon 44", 22, cool);

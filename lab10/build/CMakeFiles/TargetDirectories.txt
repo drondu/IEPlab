@@ -1,0 +1,11 @@
+/home/drondu/Desktop/IEP/lab10/build/CMakeFiles/rebuild_cache.dir
+/home/drondu/Desktop/IEP/lab10/build/CMakeFiles/edit_cache.dir
+/home/drondu/Desktop/IEP/lab10/build/A/CMakeFiles/rebuild_cache.dir
+/home/drondu/Desktop/IEP/lab10/build/A/CMakeFiles/libC.dir
+/home/drondu/Desktop/IEP/lab10/build/A/CMakeFiles/edit_cache.dir
+/home/drondu/Desktop/IEP/lab10/build/A/CMakeFiles/libA.dir
+/home/drondu/Desktop/IEP/lab10/build/A/CMakeFiles/libD.dir
+/home/drondu/Desktop/IEP/lab10/build/A/CMakeFiles/libB.dir
+/home/drondu/Desktop/IEP/lab10/build/B/CMakeFiles/rebuild_cache.dir
+/home/drondu/Desktop/IEP/lab10/build/B/CMakeFiles/executable.dir
+/home/drondu/Desktop/IEP/lab10/build/B/CMakeFiles/edit_cache.dir
